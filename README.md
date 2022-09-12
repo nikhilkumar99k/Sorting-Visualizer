@@ -8,7 +8,7 @@
 
 ### This is built using HTML, CSS, JavaScript <br/>
 
-[Check out the website here](https://abhishekprakash5.github.io/Sorting-Visualization/)
+[Check out the website here](https://nikhilkumar99k.github.io/Sorting-Visualizer/)
 
 ![image](https://user-images.githubusercontent.com/91065041/189621875-05d9cda0-c2d0-4f48-8260-e9fb3a54abf4.png)
 <br/>
